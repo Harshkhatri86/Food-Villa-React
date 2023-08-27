@@ -1,0 +1,25 @@
+{
+  "name": "class2",
+  "version": "1.0.0",
+  "description": "this is react projrct ",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.22.1",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "parcel": "^2.9.1",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.4.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.0"
+  }
+}
